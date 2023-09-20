@@ -10,6 +10,7 @@
 
 - I love developing and studying algorithms, am really interested in Machine Learning and Game Developing, and enjoy Back-End developing way more than Front-End
 
+<h2>My Skills 🧠</h2>
 
 - I'm a fluent Python 🐍 programmer, as it was my first programming language
 
@@ -17,14 +18,12 @@
 
 - I'm a fluent C programmer, having developed many algorithms and studied various Data Structures with it
 
-- I was a competitor at [RoboCup 2023: Bordeaux](https://www.robocup.org/), in the Rescue RMRC category, as a pilot for [Insper Dynamics](https://www.linkedin.com/company/insper-dynamics/?viewAsMember=true)
-
 - I have developed many REST web services, with Django , Flask and more frequently, Spring Boot
 
 - I have tinkered a lot with Artificial Inteligence, and I'm currently studying Machine Learning
 
 
-<h1> About My Projects and Skills 🧠</h1>
+<h1> About My Projects and Skills 🖥️</h1>
 
 My profile mainly contains college and personal projects, many of which I've developed with my friends
 
@@ -34,7 +33,7 @@ Some interesting Projects to get started in knowing more about my skills are:
 
 In the 2023 [RoboCup](https://www.robocup.org/) I was a pilot for [Insper Dynamics](https://www.linkedin.com/company/insper-dynamics/?viewAsMember=true), in the Rescue RMRC category, where we represented Insper and Brazil 🇧🇷.
 
-
+![Robocup](robocup.jpeg)
 
 <h2> Cuida Heliópolis </h2>
 
