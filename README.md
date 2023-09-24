@@ -14,7 +14,7 @@
 
 - I'm a fluent Python 🐍 programmer, as it was my first programming language
 
-- fluent Java ☕ programmer, with it being my favorite language for Back-End developing
+- I'm a fluent Java ☕ programmer, with it being my favorite language for Back-End developing
 
 - I'm a fluent C programmer, having developed many algorithms and studied various Data Structures with it
 
