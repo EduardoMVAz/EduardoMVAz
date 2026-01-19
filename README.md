@@ -8,7 +8,7 @@
 
 - I'm currently studying Computer Science at [Insper](https://www.insper.edu.br/)
 
-- I love developing and studying algorithms, am really interested in Machine Learning and Game Developing, and enjoy Back-End developing way more than Front-End
+- I love developing and studying algorithms, am really interested in Machine Learning and Game Developing
 
 <h2>My Skills 🧠</h2>
 
