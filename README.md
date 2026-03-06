@@ -2,7 +2,7 @@
 
 <h2>I'm Eduardo Vaz!</h2>
 
-- I'm 21 years old
+- I'm 22 years old
 
 - I'm from Paraná, Brazil 🇧🇷 but I live in São Paulo
 
